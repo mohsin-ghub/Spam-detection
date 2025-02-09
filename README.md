@@ -20,3 +20,8 @@ Accuracy: 97%
 Precision (Spam): 99%
 Recall (Spam): 77%
 F1 Score: 87%
+
+🔗 Check the Spam Detection Output
+
+![testing1](https://github.com/user-attachments/assets/e068014a-063a-4827-bb32-d020bd4a9f76)
+![testing2](https://github.com/user-attachments/assets/05ad610b-4d7a-485d-872c-54052b0b8782)
